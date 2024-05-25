@@ -1,5 +1,7 @@
-numOfLetters = len("Ruhan!")
-print(numOfLetters)
+name = input("What is your name? ")
+length = name
+numofletters = len(name)
+print(numofletters)
 
 #Yes!
 #Not?
