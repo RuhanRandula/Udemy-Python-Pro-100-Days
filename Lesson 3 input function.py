@@ -1,7 +1,7 @@
 name = input("What is your name? ")
 length = name
 numofletters = len(name)
-print(numofletters)
+print("Your Name has", numofletters, "letters! ")
 
 #Yes!
 #Not?
