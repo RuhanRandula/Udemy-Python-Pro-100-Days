@@ -29,4 +29,4 @@ while True:
             else:
                 print("Please choose Swim or Wait.")
     else:
-        print("Please choose Left or Right.") 
+        print("Please choose left or right.")
