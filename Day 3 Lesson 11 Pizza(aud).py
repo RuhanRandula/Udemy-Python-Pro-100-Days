@@ -17,7 +17,7 @@ def calculate_pizza_bill(size, add_pepperoni, extra_cheese):
             bill += 2
     elif size == "M":
         bill = 20
-        if add_pepperoni == "Y":
+        if add_pepperoni == "Y": 
             bill += 3
     elif size == "L":
         bill = 25
