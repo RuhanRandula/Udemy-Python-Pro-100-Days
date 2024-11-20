@@ -16,3 +16,10 @@ for score in student_scores:
 
 print(f"Total score is {total_score}")
 print(f"Highest score is {high_score}")
+
+
+
+
+
+
+
